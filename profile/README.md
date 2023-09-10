@@ -60,3 +60,7 @@ https://user-images.githubusercontent.com/70076564/219876293-ba7894bd-6396-4c1f-
 <br>따라서 유기동물을 찾아주는 서비스는 실종아동을 찾는 서비스와
 같은 가치를 가질 것이라고 예측합니다.
 
+<br><br>
+
+## 사용 기술
+<img width="1050" alt="image" src="https://github.com/mungtage/.github/assets/70076564/58a1fd7a-d04c-4b9c-b15d-8e00e69bdb41">
